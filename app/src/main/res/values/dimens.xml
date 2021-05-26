@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_dp">8dp</dimen>
+    <dimen name="top_margin_dp">24dp</dimen>
+    <dimen name="std_dp">16dp</dimen>
+    <dimen name="dial_size">275dp</dimen>
+</resources>
